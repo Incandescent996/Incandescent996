@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Incandescent996
-- 👀 I’m interested in leanring more about Cyber Security, with a passion in Analytics.
-- 🌱 I’m currently learning Cyber Security Anaytics solutions
+- 👀 I’m interested in leanring more about Cyber Security, with a passion in Analysis.
+- 🌱 I’m currently learning Cyber Security Anaytical solutions.
 
 
 <!---
